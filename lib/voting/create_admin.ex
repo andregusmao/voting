@@ -3,6 +3,6 @@ defmodule Voting.CreateAdmin do
   Creating a new admin
   """
 
-  def run(params) do
+  def run(_params) do
   end
 end
